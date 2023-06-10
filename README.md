@@ -1,5 +1,9 @@
 # vue-pc
 
+```
+测试插件脚手架--pc端模板
+```
+
 ## Project setup
 ```
 yarn install
